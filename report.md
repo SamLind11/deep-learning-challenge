@@ -34,5 +34,4 @@ These changes resulted in only modest gains, resulting in a model whose accuracy
 ## Summary
 After several iterations and improvements to optimize the model, we were not able to achieve our goal of 75% accuracy.  However, this tool may still provide insights and influence decision making when determining whether to fund new ventures.  There may be further improvements to this model which could yield marginally better accuracy, but future analysis may explore using logarithmic regression or decision tree-based machine learning models to more accurately predict the success of business ventures.  Additionally, collecting more data or adding/reducing features may generate in a more accurate model.
 
-## Authorship
-Starter code and training data for this project were provided by the UNC Data Analytics Bootcamp.  Data processing, development of the neural networks, and analysis were created by Sam Lind.
+
